@@ -1,0 +1,3 @@
+# climod
+
+Example scripts
